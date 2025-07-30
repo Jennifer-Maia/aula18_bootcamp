@@ -65,4 +65,4 @@ REST é um estilo de arquitetura para sistemas distribuídos, enquanto RESTful �
 
 # Vamos para a prática?
 
-Vamos usar o VScode e o terminal para conectar e salvar os dados de uma API em um banco de dados.
+Vamos usar o VScode e o terminal para conectar e salvar os dados de uma API em um banco de dados.# aula18_bootcamp
